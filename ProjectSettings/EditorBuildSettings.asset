@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Fly Bronze.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Start.unity
+    guid: 7e1031c208c23744b9ddf2de787b9ab4
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 0a6e859147ede5a419169b42d9a4e8c2
+  - enabled: 1
+    path: Assets/Levels/CharacterSelect.unity
+    guid: 17e2d6dc2ef2ea7459bf1f5dfe2a271e
+  - enabled: 1
+    path: Assets/Levels/fightBE.unity
+    guid: 6db525c0676790640a57f5dd5bafc194
+  - enabled: 1
+    path: Assets/Levels/StageSelection.unity
+    guid: f59e66dd7f638fb48a2d4ce8b969a427
+  - enabled: 1
+    path: Assets/Levels/fightBD.unity
+    guid: 9c38abb5c9fbb58439c206271f56e3e9
+  - enabled: 1
+    path: Assets/Levels/fightBC.unity
+    guid: efe75b949e6abca4a9215928e7aaa899
+  - enabled: 1
+    path: Assets/Levels/fightBA.unity
+    guid: e6b644d2dcc84334db60ea992fa7a6a6
+  - enabled: 1
+    path: Assets/Levels/Select.unity
+    guid: 3036341c2772adb4b9fc12c1f25dfb20
+  - enabled: 1
+    path: Assets/Levels/a.unity
+    guid: 9a9c0031dcd7b52479610a24b09b7664
+  - enabled: 1
+    path: Assets/Levels/fightCE.unity
+    guid: 0766ad482a8d179498ca6ece049b3190
+  - enabled: 1
+    path: Assets/Levels/fightAB.unity
+    guid: 643b243d70d403648bf093d5f6ec5097
+  - enabled: 1
+    path: Assets/Levels/fightAC.unity
+    guid: c607340fc8b2e764aaeba03aa0ec19ac
+  - enabled: 1
+    path: Assets/Levels/fightCB.unity
+    guid: 6f610ec0b23daa144993207831ae5b2d
+  - enabled: 1
+    path: Assets/Levels/Select2.unity
+    guid: f863fb18f8a6f694fa5b117a7a647e80
+  - enabled: 1
+    path: Assets/Levels/fightCD.unity
+    guid: b3061ad03f680624cbfd1ed607ddb0c2
+  - enabled: 1
+    path: Assets/Levels/Controls.unity
+    guid: d96eab79911be90428ec288faadc9a1a
+  - enabled: 1
+    path: Assets/Levels/Settings.unity
+    guid: 0cd75da7f7a1c0444aeba1728af7b7ff
+  - enabled: 1
+    path: Assets/Levels/Stage1.unity
+    guid: fec264dd88cc3d742b1333590fced192
+  - enabled: 1
+    path: Assets/Levels/fightCA.unity
+    guid: b360e861ef2bffa478e70ebb23e64145
+  - enabled: 1
+    path: Assets/Levels/Stage2.unity
+    guid: f8af35bdcd26d4349bfc9d0c16743b91
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+    guid: 36a6c3e8a37aa7e46ae563b5130704ab
+  - enabled: 1
+    path: Assets/Levels/Level4.unity
+    guid: 71dc96dd4e0a70449a985a4ceeb6aa4d
+  - enabled: 1
+    path: Assets/Levels/Level3.unity
+    guid: 41caa56b567061c459eeabf3480fd947
+  - enabled: 1
+    path: Assets/Levels/Level6.unity
+    guid: 39a13e4197ac7d349b9d0c9a88f192ca
+  - enabled: 1
+    path: Assets/Levels/Level1.1.unity
+    guid: 15884f31feb85734c9588f3236cdbd3c
+  - enabled: 1
+    path: Assets/Levels/BossLevel.unity
+    guid: 199eb6b544bc7684784acffeefcf627c
+  - enabled: 1
+    path: Assets/Levels/fightAD.unity
+    guid: f05bf07df0d5eec45a7df156da4518dc
+  - enabled: 1
+    path: Assets/Levels/Level5.unity
+    guid: f3d5b16ddb25ddf4cba960d21d90dd78
+  - enabled: 1
+    path: Assets/Levels/ea.unity
+    guid: d534beb8867df9d479c0f62155305ea7
+  - enabled: 1
+    path: Assets/Levels/ed.unity
+    guid: ab58bc87353264440b490882b0a2cd69
+  - enabled: 1
+    path: Assets/Levels/fight.unity
+    guid: fadfb6cb441544344a776c1b0d63f098
+  - enabled: 1
+    path: Assets/Levels/ec.unity
+    guid: e4250326935cbae47a38afef476dd7b2
+  - enabled: 1
+    path: Assets/Levels/eb.unity
+    guid: bf8f427e1729ec1439f0651d6dd5b44e
+  - enabled: 1
+    path: Assets/Levels/e.unity
+    guid: 49ec8f35e253f5a41a19762b5be6dce9
+  - enabled: 1
+    path: Assets/Levels/d.unity
+    guid: 1fec8986155936746a5b19549d70f8ea
+  - enabled: 1
+    path: Assets/Levels/c.unity
+    guid: cc35c4d546e6b7241913f31981740551
+  - enabled: 1
+    path: Assets/Levels/b.unity
+    guid: 11802ba29b5cf5248a68e97967a2bbc6
+  - enabled: 1
+    path: Assets/Levels/fight6.unity
+    guid: f573745416f9042449802c94531b61c9
+  - enabled: 1
+    path: Assets/Levels/fightAE.unity
+    guid: 09b169ea31b36344191e2eea61bf51e0
+  - enabled: 1
+    path: Assets/Levels/ad.unity
+    guid: bbe053ac3e7674145b201b2b97b7ebdc
+  - enabled: 1
+    path: Assets/Levels/ab.unity
+    guid: 67e5b07e0487a6449b26ae04c58efdee
+  - enabled: 1
+    path: Assets/Levels/ba.unity
+    guid: e5d5ef5a3acfd4d48bc3ad45adc2c43b
+  - enabled: 1
+    path: Assets/Levels/ca.unity
+    guid: 16b10dc01ea04d349800f227b4af106e
+  - enabled: 1
+    path: Assets/Levels/ae.unity
+    guid: 4e5d22720fb570d408974b8b6ef8eab5
+  - enabled: 1
+    path: Assets/Levels/cd.unity
+    guid: 687dcda0ec06cc24a927d3e9d5ce2d05
+  - enabled: 1
+    path: Assets/Levels/be.unity
+    guid: d28003c8953093343add02918e9eb94b
+  - enabled: 1
+    path: Assets/Levels/ac.unity
+    guid: 02e382ce703f9294282e0c9a9d9a5dfc
+  - enabled: 1
+    path: Assets/Levels/ce.unity
+    guid: 0a587a0732102a94abd0d2e612d46adc
+  - enabled: 1
+    path: Assets/Levels/cb.unity
+    guid: 1309889724d85ee44883c0cfb2779da9
+  - enabled: 1
+    path: Assets/Levels/bd.unity
+    guid: 2d974b450d868f34fb889bc0a81a5040
+  - enabled: 1
+    path: Assets/Levels/de.unity
+    guid: bdf2ad8dcc20305419b6be6150973148
+  - enabled: 1
+    path: Assets/Levels/HowManyPlayers.unity
+    guid: eeb18fceadd80ab4c863ed8000d75a50
+  - enabled: 1
+    path: Assets/Levels/da.unity
+    guid: c168f396f28e8e543a63785d27fa7275
+  - enabled: 1
+    path: Assets/Levels/dc.unity
+    guid: 71b23dfdd1b4a694fa11254237d299be
+  - enabled: 1
+    path: Assets/Levels/db.unity
+    guid: 14b64a581b024c44bbbe904b9b5b3baf
+  - enabled: 1
+    path: Assets/Levels/fightDA.unity
+    guid: 4d1d979b5833b6349b5ff3573af17338
+  - enabled: 1
+    path: Assets/Levels/fightDC.unity
+    guid: d91f13e2b7eba3f4c8640fe4baf89e26
+  - enabled: 1
+    path: Assets/Levels/bc.unity
+    guid: 982a75ab6c051be40ac3097aace93536
+  - enabled: 1
+    path: Assets/Levels/fightED.unity
+    guid: c9193528c82fd3f4c8a08a6358b82ea5
+  - enabled: 1
+    path: Assets/Levels/fightDE.unity
+    guid: 44022b115406c45418bf4a9595e5e500
+  - enabled: 1
+    path: Assets/Levels/fightEC.unity
+    guid: 7f407fd83d96e054eb156046af4347a0
+  - enabled: 1
+    path: Assets/Levels/fightEA.unity
+    guid: fdd2d3cf37c595e48908dd5aeb8e2152
+  - enabled: 1
+    path: Assets/Levels/fightEB.unity
+    guid: a93c0a0785c21744badc76766a245978
+  - enabled: 1
+    path: Assets/Levels/fightDB.unity
+    guid: a4104ab2c3a6b94408ee39714f4747a1
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: e904c60e569d4a342a74d587cba68c8b
+  m_configObjects: {}
